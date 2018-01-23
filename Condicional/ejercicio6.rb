@@ -1,5 +1,5 @@
-a = 'verdadero'
-b = 'verdadero'
+a = true
+b = true
 
 
 
@@ -13,9 +13,9 @@ b = 'verdadero'
 #   end
 # end
 
-if a == 'verdadero'
+if a
   puts ':)'
-elsif b == 'verdadero'
+elsif b
   puts ':|'
 else
   puts ':('
